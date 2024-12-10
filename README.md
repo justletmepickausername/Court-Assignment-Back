@@ -42,12 +42,12 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-dotnet-api.git
+   git clone https://github.com/justletmepickausername/Court-Assignment-Back.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd your-dotnet-api
+   cd CourtComplaintFormBackend
    ```
 
 3. Restore the project dependencies:
@@ -102,15 +102,6 @@ To deploy the API to production:
 2. Deploy the contents of the `publish/` folder to your server or cloud service (e.g., Azure, AWS, etc.).
 
 For more details on deploying .NET APIs, refer to the [official documentation](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/?view=aspnetcore-8.0).
-
----
-
-## Versioning
-
-We use [SemVer](https://semver.org/) for versioning. For the list of versions, see the [releases](https://github.com/your-username/your-dotnet-api/releases) page.
-
-- **1.0.0**: Initial release
-- **1.1.0**: Added support for contact form update
 
 ---
 
