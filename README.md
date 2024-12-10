@@ -11,7 +11,6 @@ This is the backend of the Contact Form application, built using .NET 8 Minimal 
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Deployment](#deployment)
-- [Versioning](#versioning)
 - [Contributing](#contributing)
 - [License](#license)
 
