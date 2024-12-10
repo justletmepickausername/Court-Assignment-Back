@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\951ma\\source\\repos\\CourtComplaintFormBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6650C2C0-81C6-47FC-A8A7-DE50EBB2E79F}|CourtComplaintFormBackend.csproj|c:\\users\\951ma\\source\\repos\\courtcomplaintformbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650C2C0-81C6-47FC-A8A7-DE50EBB2E79F}|CourtComplaintFormBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650C2C0-81C6-47FC-A8A7-DE50EBB2E79F}|CourtComplaintFormBackend.csproj|c:\\users\\951ma\\source\\repos\\courtcomplaintformbackend\\helpers\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650C2C0-81C6-47FC-A8A7-DE50EBB2E79F}|CourtComplaintFormBackend.csproj|solutionrelative:helpers\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650C2C0-81C6-47FC-A8A7-DE50EBB2E79F}|CourtComplaintFormBackend.csproj|c:\\users\\951ma\\source\\repos\\courtcomplaintformbackend\\models\\contactformdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650C2C0-81C6-47FC-A8A7-DE50EBB2E79F}|CourtComplaintFormBackend.csproj|solutionrelative:models\\contactformdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650C2C0-81C6-47FC-A8A7-DE50EBB2E79F}|CourtComplaintFormBackend.csproj|c:\\users\\951ma\\source\\repos\\courtcomplaintformbackend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6650C2C0-81C6-47FC-A8A7-DE50EBB2E79F}|CourtComplaintFormBackend.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\951ma\\source\\repos\\CourtComplaintFormBackend\\Helpers\\TokenHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\TokenHelper.cs",
+              "ToolTip": "C:\\Users\\951ma\\source\\repos\\CourtComplaintFormBackend\\Helpers\\TokenHelper.cs",
+              "RelativeToolTip": "Helpers\\TokenHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:21:51.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\951ma\\source\\repos\\CourtComplaintFormBackend\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\951ma\\source\\repos\\CourtComplaintFormBackend\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T11:50:21.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactFormData.cs",
+              "DocumentMoniker": "C:\\Users\\951ma\\source\\repos\\CourtComplaintFormBackend\\Models\\ContactFormData.cs",
+              "RelativeDocumentMoniker": "Models\\ContactFormData.cs",
+              "ToolTip": "C:\\Users\\951ma\\source\\repos\\CourtComplaintFormBackend\\Models\\ContactFormData.cs",
+              "RelativeToolTip": "Models\\ContactFormData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:35:18.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\951ma\\source\\repos\\CourtComplaintFormBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\951ma\\source\\repos\\CourtComplaintFormBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAmwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:22:25.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
